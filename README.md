@@ -1,7 +1,6 @@
-<h1 align="center"> Olá mundo, eu sou a <strong>Maria Julia Felix</strong> </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Desenvolvedora+Front-end;UI%2FUX+Designer;Criadora+de+Experi%C3%AAncias+Digitais" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Maria+Julia+Felix;Desenvolvedora+Front-end;UI%2FUX+Designer;Criadora+de+Experi%C3%AAncias+Digitais" />
 </p>
 
 ---
