@@ -1,47 +1,65 @@
-# Olá, eu sou a **Maria Julia Felix**!
+<h1 align="center"> Olá mundo, eu sou a <strong>Maria Julia Felix</strong> </h1>
 
-### Sobre mim
-
-Sou desenvolvedora e atualmente estou atuando como estagiária na área de **Inteligência Artificial**, com um foco especial em **Visão Computacional**. Estou aprendendo muito sobre como ensinar máquinas a "ver" e interpretar o mundo ao nosso redor. 
-
-Gosto muito de **Desenvolvimento Web**, especialmente de criar e explorar ideias sobre como as cores e os elementos visuais podem se encaixar perfeitamente para criar uma experiência de usuário incrível. **Figma** tem sido uma das minhas ferramentas favoritas para desenhar e planejar interfaces.
-
-Atualmente, estou expandindo meus conhecimentos com o objetivo de criar **soluções inovadoras** e impactar positivamente o mundo da tecnologia.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Desenvolvedora+Front-end;UI%2FUX+Designer;Criadora+de+Experi%C3%AAncias+Digitais" />
+</p>
 
 ---
 
-###  Tecnologias e Ferramentas
+### Sobre mim
 
-Aqui estão algumas das tecnologias que eu uso e gosto de trabalhar:
+Sou uma desenvolvedora com foco em **Front-end** e apaixonada por criar **interfaces modernas, acessíveis e criativas**.  
+Gosto de unir **design e tecnologia** para construir experiências que encantam visualmente e funcionam perfeitamente.
 
-<div style="display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin-right: 12px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" style="margin-right: 12px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" style="margin-right: 12px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin-right: 12px;" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" style="margin-right: 12px;" />
+Atualmente, sou **estagiária na área de Inteligência Artificial**, onde aprendi muito sobre **Visão Computacional** e **Python** — experiências que me ajudam a pensar soluções de forma mais analítica.  
+Mesmo assim, meu **coração está no front-end**, explorando tudo sobre **UI/UX, animações e design de interfaces**.
+
+Adoro planejar projetos no **Figma**, experimentar novas paletas, brincar com tipografia e testar ideias que conectem pessoas e tecnologia.   
+
+---
+
+### Tecnologias e Ferramentas
+
+<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,python,vscode" />
 </div>
 
 ---
 
+###  Foco Atual
 
-![Maria Julia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mariajuliafelix&show_icons=true&theme=prussian&card_width=500px)
-
----
-
-### **Foco Atual de Estudo**
-
-Atualmente, estou focada em aprender e desenvolver em áreas como:
-
-- **Visão Computacional**: Aprofundando no estudo de algoritmos de visão computacional e suas aplicações em IA.
-- **Design de Interfaces**: Aperfeiçoando minha experiência com **Figma** para criar designs inovadores e funcionais.
-- **Desenvolvimento Web**: Criação de páginas dinâmicas e interativas.
+ **Desenvolvimento Front-end:** aprofundando em **HTML**, **CSS**, **JavaScript** e **React**.  
+ **Design de Interfaces:** criando layouts no **Figma** com foco em usabilidade e estética.  
+ **Interatividade:** tornando páginas mais dinâmicas com transições e microinterações.  
+ **Design Responsivo:** adaptando projetos para qualquer dispositivo.
 
 ---
 
-### **Vamos Conectar!**
+###
 
-Me envie uma mensagem e vamos trocar ideias sobre tecnologia, projetos ou qualquer outro assunto interessante! 🚀
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mariajuliafelix&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=ff79c6" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariajuliafelix&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=ff79c6" />
+</div>
 
-- **Email**: [mariajuliaf160@gmail.com](mailto:mariajuliaf160@gmail.com)
-- **LinkedIn**: [Mariajuliafelix](https://www.linkedin.com/in/maria-julia-felix-694875332/)
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariajuliafelix&bg_color=0d1117&color=ff79c6&line=ff79c6&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+---
+
+###
+
+<div align="center">
+  <a href="mailto:mariajuliaf160@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff79c6?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/maria-julia-felix-694875332/"><img src="https://img.shields.io/badge/LinkedIn-9146FF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfólio-00b894?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</div>
+
+---
+
+  <img align="center" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="1000px" />
+
