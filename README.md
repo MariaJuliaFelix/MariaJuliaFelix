@@ -7,7 +7,7 @@
 
 ### Sobre mim
 
-Sou uma desenvolvedora com foco em **Front-end** e apaixonada por criar **interfaces modernas, acessíveis e criativas**.  
+Sou uma desenvolvedora com foco em **Full Stack** e apaixonada por criar **Java Script | AI | Deep Learning | Python **.  
 Gosto de unir **design e tecnologia** para construir experiências que encantam visualmente e funcionam perfeitamente.
 
 Atualmente, sou **estagiária na área de Inteligência Artificial**, onde aprendi muito sobre **Visão Computacional** e **Python** — experiências que me ajudam a pensar soluções de forma mais analítica.  
